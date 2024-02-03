@@ -2,9 +2,9 @@
   "name": "noted-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "server.ts",
   "scripts": {
-    "dev": "tsc -w & nodemon dist/index.js",
+    "dev": "tsc -w & nodemon dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
